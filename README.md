@@ -83,5 +83,5 @@ To run this project locally, follow these steps:
 If you have any questions or suggestions, feel free to reach out:
 
 - **Name:** Suprapto Santoso
-- **Email:** supra.jgu@gmail.com
+- **Email:** santososuprapto.san@gmail.com
 - **GitHub:** [SupraSantoso](https://github.com/SupraSantoso)
